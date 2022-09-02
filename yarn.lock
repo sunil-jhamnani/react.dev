@@ -1356,6 +1356,802 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
+"@myntra/accoutrement@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/accoutrement/-/@myntra/accoutrement-1.13.100.tgz#8513846c06b28fa901879af9749fbe82be455363"
+  integrity sha512-d9anR/+GTLC4dB6m5dXFKFj+p8fnz0Ly6hOhMXEGXzpSQ18BiAObSztJyUCDFnCw/03SrSAgvEaND+RvX4HNNw==
+  dependencies:
+    accoutrement "^2.1.2"
+    normalize.css "^8.0.1"
+
+"@myntra/uikit-can-i-use@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-can-i-use/-/@myntra/uikit-can-i-use-1.13.100.tgz#d72d121072c47bb579acccb6c081e6bbfe446a31"
+  integrity sha512-RrEdndkv/aNoAnNxcH+c1XXCE0pOnPpAsCJ1uCYTX7vcH76D1ydPlZI1+evX2jxBXkmeIiKPSddVogoW2PGk2A==
+  optionalDependencies:
+    react "^16.8.4"
+    react-dom "^16.8.4"
+
+"@myntra/uikit-component-accordion@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-accordion/-/@myntra/uikit-component-accordion-1.13.99.tgz#3c69d0db4dc668f132df3e85e777b802cb107f5c"
+  integrity sha512-jK5+0asqQ+fbnu/R92a5zh9RgK23iZg6h5nZfBS/f1xLkzJV1hzfDIhEejHWPPIKqKkgS/53xvxBnoY3rICqPg==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-component-layout" "1.13.*"
+    "@myntra/uikit-context" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-avatar@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-avatar/-/@myntra/uikit-component-avatar-1.13.99.tgz#1e7be7d28c5b96dec5242e3dadecc8212c781ca6"
+  integrity sha512-u15HxvR0fd9w8i3r9myWfzvC2JSjXjye+nMgLji6nwOY3xbg01mWAVCCf+Cbw7tdYpYwN7vCIBBYRHiBJuf6bA==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    name-initials "^0.1.3"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-badge@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-badge/-/@myntra/uikit-component-badge-1.13.100.tgz#325a4db55b6d3668e315beeaf18d6e4113040c98"
+  integrity sha512-cF7Cwb+/r+zyxCDXaUZbHYWdnoQpO/v4jf/8QOLMCa799cmBsHshUlpDSKAVW6zi1HPDTEr+S3pXIrL2US1qQw==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-banner@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-banner/-/@myntra/uikit-component-banner-1.13.99.tgz#4b001677a1a93a4e2b6665782747ec83858a5089"
+  integrity sha512-jWtIiekdHbVVo5mEmOLoA5vAVKlCky7ta35etkDfJbeKDpBYgZquKqXJkeFJ6V7K1wwlxUksPyxBLcVSi1xOwQ==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-component-layout" "1.13.*"
+    "@myntra/uikit-component-text" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-bread-crumb@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-bread-crumb/-/@myntra/uikit-component-bread-crumb-1.13.99.tgz#537ac218bcc88ee2f15ee61e605f558da7dbf8f2"
+  integrity sha512-szniZ3tKt4w52bRF1kz3eDy+88L43aXdiWuBkXX0GnHSCfhgzs2eyDkW0LV3JBoUthXpcyFYZIOIg/VnHFulLQ==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-button-group@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-button-group/-/@myntra/uikit-component-button-group-1.13.100.tgz#d98f9dc45a9b265d287ccafcc1de8ae715bdd45b"
+  integrity sha512-/W1JxDNQn5Pueiyn2PWS9+8r5LpGPZ3qVKZi7t353Wu6cOmJQNlJed7oDrqy3f8qpEVvK4K/dNSsHY8cLYGSxA==
+  dependencies:
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-dropdown" "1.13.*"
+    "@myntra/uikit-component-list" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-button@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-button/-/@myntra/uikit-component-button-1.13.99.tgz#08a897f798d9a219cb171ba37e1a67c318f2ef46"
+  integrity sha512-WiPPf2PF0VxsoajlIpQZDZuTlDn7D2pZbVIhp/h20t+LaQLPmAF3ZEv+d4tPDTgm063zFgAtj1O6jAXfXwqNVA==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-component-loader" "1.13.*"
+    "@myntra/uikit-component-text" "1.13.*"
+    "@myntra/uikit-context" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-click-away@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-click-away/-/@myntra/uikit-component-click-away-1.13.99.tgz#8ffc537a1d78ba2b1594a176092626471faf0033"
+  integrity sha512-Wj/7bW56NUlzgs7uVVcaCr/GBvk5oam4o5DX2+wtvGC/nl18Mrep4qFosC4aMyHrPN6YbQ9AEnCA5cG674liJw==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-dropdown@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-dropdown/-/@myntra/uikit-component-dropdown-1.13.99.tgz#cf0ad0ee488e59fe199916ccafef92f32dfc774e"
+  integrity sha512-HYNoo6QFgiF8WUAfxVOZ0vUCbtWtnUQ/lce+VYiChOvfdevyufPz1C9y+YBTaeblviwahsQoCWTKczMoEvCdXQ==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-click-away" "1.13.*"
+    "@myntra/uikit-component-measure" "1.13.*"
+    "@myntra/uikit-component-portal" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    prop-types "^15.7.2"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-error-boundary@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-error-boundary/-/@myntra/uikit-component-error-boundary-1.13.100.tgz#1f288de9a6d7c39afd41f3d25844142dbbfef985"
+  integrity sha512-f+JyO8T6pWS5Hwf1jshjrF4+8pH4piwgmiEw4mVpAs6AzSalIlu3muKD9U1sjgB4/q+6yO09+LR6vIi/VNdViw==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    prop-types "^15.7.2"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-fab@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-fab/-/@myntra/uikit-component-fab-1.13.100.tgz#cd93b89bc3055551150a8a7b10a5087025ac7668"
+  integrity sha512-CRRRNOiH33WIqmJoUsnp8EiiE5DItPjNd2uQDDfanX7JfoKXqIDmEql/kmBGh55WITmEsWXIynxRvCeCG9R8PQ==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-dropdown" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    prop-types "^15.7.2"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-field@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-field/-/@myntra/uikit-component-field-1.13.99.tgz#a66c5e3a7efe3e0a2785cf6e70289eb64fe410e6"
+  integrity sha512-21TDjs1q7T+06pSpkxRXyIAii5Wbql0ATDoltGDBD/79XPGvEkaS1s3vn3VdT9te+wwPLiqBFkokq7wPKlAxAQ==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    prop-types "^15.7.2"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-flex@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-flex/-/@myntra/uikit-component-flex-1.13.100.tgz#66f0922bd5f7462e887eeef8fcaf9c9d5dc1dfe8"
+  integrity sha512-evOgKU+EFfhoo5cvbpoAbfshadcosHMJceF8hbEc1hGP2c+PahwtvDMsdgZSTCPJIS/HxMokv6Ay4sKIgu43tg==
+  dependencies:
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-form@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-form/-/@myntra/uikit-component-form-1.13.99.tgz#3eb2595ed4b9280398619dfaf1edafa55d50e1bb"
+  integrity sha512-DgXqhmDL8BVYQ8MAV3cdiHjbg06mdmYxrkeae0zG/quPKM1I3KaAAq4GQPDO0pnBA/U1VVFt3RXRIidBM3FlWA==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-button-group" "1.13.*"
+    "@myntra/uikit-component-field" "1.13.*"
+    "@myntra/uikit-component-grid" "1.13.*"
+    "@myntra/uikit-component-input-azure-file" "1.13.*"
+    "@myntra/uikit-component-input-checkbox" "1.13.*"
+    "@myntra/uikit-component-input-date" "1.13.*"
+    "@myntra/uikit-component-input-file" "1.13.*"
+    "@myntra/uikit-component-input-masked" "1.13.*"
+    "@myntra/uikit-component-input-month" "1.13.*"
+    "@myntra/uikit-component-input-number" "1.13.*"
+    "@myntra/uikit-component-input-radio" "1.13.*"
+    "@myntra/uikit-component-input-s3-file" "1.13.*"
+    "@myntra/uikit-component-input-select" "1.13.*"
+    "@myntra/uikit-component-input-text" "1.13.*"
+    "@myntra/uikit-component-input-text-area" "1.13.*"
+    "@myntra/uikit-context" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-grid@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-grid/-/@myntra/uikit-component-grid-1.13.99.tgz#1d8f9e88ff3cfbc11bd4b6447a72044ab633d35f"
+  integrity sha512-sIMQn/nqYxC5x73tUkk7tT1B4mTSYbc83WeOLgSSnSRw1yP0fnS+BO8LP0HVkLqLFG7/lB/H8MqAu8INq4DUbQ==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    prop-types "^15.7.2"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-group@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-group/-/@myntra/uikit-component-group-1.13.100.tgz#3fdcad10b78896fbf50012084976a6360dc05d81"
+  integrity sha512-CSP0nlbLFAsX8FdnQltEsKKXIah7q+1RgES1tkhHMzORoPt37bt2AYdMfor4ZLtp2uO5DrpRrScXRwZcULDxjA==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-icon@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-icon/-/@myntra/uikit-component-icon-1.13.99.tgz#66983e6cb1485d80e8258e40b382708b86e10253"
+  integrity sha512-lZudWkAFKGfxouc5Gh+ipCYDpx1k19fXm+jUJkvGAs3GBZn3USb+LhQvoc2i0VkHnoUcNwL3KLaoJtojAD0POg==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-image@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-image/-/@myntra/uikit-component-image-1.13.100.tgz#b038ede7d0af42bf6f0dddd0316695a464d6accd"
+  integrity sha512-o2eCHpFdeILwC3RW+33lcIg9PL0OgIk++BxYvSce11Qcl+cBoeY1uZpY2XNq3n3CZtVsNft23pN+tpfJmkOCbw==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    intersection-observer-polyfill "^0.1.0"
+    prop-types "^15.7.2"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-input-azure-file@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-input-azure-file/-/@myntra/uikit-component-input-azure-file-1.13.99.tgz#81e3f244a489a9776335237836cd347f24e9b581"
+  integrity sha512-78+5DlXBxRiHkPOrqXAAXgld8bSuwi5z+Kis7Tl+dO6mXQsNr+88xllCS6z5t8AVYG6is0K+yiEJQ8I7UIs9zQ==
+  dependencies:
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-input-file" "1.13.*"
+    "@myntra/uikit-component-progress" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-input-checkbox@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-input-checkbox/-/@myntra/uikit-component-input-checkbox-1.13.99.tgz#6d29de00ae83f80f17327442817826fa28ce2ad3"
+  integrity sha512-uKwNBgQ/iX5Vz2JO7bOqK21B55cZRmjP4/WwQS5PPn3qI6nUQrj97yOWhPbTFxOLNAdwUVU3jI9EDHiaKsyiUA==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-input-text" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-input-date@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-input-date/-/@myntra/uikit-component-input-date-1.13.99.tgz#78b312154bf06a0d76f7adfaafaa48bd94dd5658"
+  integrity sha512-gwSaFwmLzxW6DTj7x5fJjc5xRFGBIeD4o3igktG2w8Jzj8zXBG/BlNK0GW6BJzU0uRexMggO3r4g3+sW8V0fwQ==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-button-group" "1.13.*"
+    "@myntra/uikit-component-dropdown" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-component-input-masked" "1.13.*"
+    "@myntra/uikit-component-input-number" "1.13.*"
+    "@myntra/uikit-component-input-text" "1.13.*"
+    "@myntra/uikit-component-layout" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    date-fns "^2.0.0-alpha.27"
+    dayjs "^1.8.14"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-input-file@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-input-file/-/@myntra/uikit-component-input-file-1.13.99.tgz#ce0476e7e4d5a344f242a539f434c61675120386"
+  integrity sha512-R52m/ovdhk/kt5bvGMpC/Ra0BakYRoswvLj5VT18TqIBsYnZyWE1BI7Kt6BxROiiYPxDwjjRTchxHgDpXWLczA==
+  dependencies:
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-input-text" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-input-masked@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-input-masked/-/@myntra/uikit-component-input-masked-1.13.100.tgz#73e6c35ad8bc203a4f088e32ab1f54b16c5702fa"
+  integrity sha512-o9bbt8IiYrwvS2t3gA8kEEi8lf5y27W/bY2GPCh9fTc+wL9MubSx252IiI5SyXDqehhVpkeSzslDJBLJDBJ4mQ==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-input-text" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-input-month@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-input-month/-/@myntra/uikit-component-input-month-1.13.99.tgz#0c787d506b1acbc98716a794dc3ce149b6f2022a"
+  integrity sha512-PpDFV1bpePUTftyeG7ByVXuVSgR2D5Zq02Irc2MwRubXpMui09VOwZg0nBDkhRI374wNax+lZkydYAwFJKPwqw==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-dropdown" "1.13.*"
+    "@myntra/uikit-component-input-date" "1.13.*"
+    "@myntra/uikit-component-input-masked" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    luxon "^1.21.1"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-input-number@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-input-number/-/@myntra/uikit-component-input-number-1.13.99.tgz#4721565e5ef6245430d7efbe3b7feea006495b5b"
+  integrity sha512-GNJV7mCSveF8ShbUw02nft95hmmRy3mZjj4D75otvLKAoeez/YPwkhXOpa28zpm2ARwDTIyxdjUxX6k/8xrTtw==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-input-text" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-input-radio@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-input-radio/-/@myntra/uikit-component-input-radio-1.13.100.tgz#fc6f017ecd7ce621fe0f78aad4faa9ff1b5e01b1"
+  integrity sha512-AS5M8L8oRX6UDa2spjlkj3glJsHdRfzVJ1NeIOaT0AqxHYj7+b0gFw8DEoW2qpZr9k/oskN6Zem8mdJS94/eIA==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-input-s3-file@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-input-s3-file/-/@myntra/uikit-component-input-s3-file-1.13.100.tgz#f8707a710337cb3e35beab31caffc212780d8d5e"
+  integrity sha512-iG+J3nAvp+6K8p6KO/4RYpp9yMUO06OPVn9CN6bUTjN+XjnOWBGR9LNuxmCNbIqaEqRK04u7NdAid1NRbJgDYQ==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-input-file" "1.13.*"
+    "@myntra/uikit-component-progress" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-input-select@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-input-select/-/@myntra/uikit-component-input-select-1.13.99.tgz#158c83adcffe676b4f085d5f85c81cae4df114c9"
+  integrity sha512-CPW1CTUACbtbXTLEF6WoQm1pWbtmnIQvjasDXEQlTzjyY+/pggOywJdKqz+reF1d1DBuvLnJJDRS5HVGkMw84Q==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-dropdown" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-component-input-text" "1.13.*"
+    "@myntra/uikit-component-list" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    sifter "^0.5.3"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-input-text-area@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-input-text-area/-/@myntra/uikit-component-input-text-area-1.13.100.tgz#b5708ec73a00a2ff56b0a63485613c48031427d8"
+  integrity sha512-K6tfg1FfiwVQcd/ta+vTGVvzRBDt+1J61NUeuGo2tUDnpxKfmRuLrvT50z8jvyNeMGTvOG8W5jK5QptCPCfxdw==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-input-text" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-input-text@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-input-text/-/@myntra/uikit-component-input-text-1.13.99.tgz#3985e4958051fc69a63dd1eb4d0cabffdd44793d"
+  integrity sha512-s8AAxu09gyEZ7C4vqivGSyTPXPVe3wG6Qqghlx7FhK4ZMM7VuaOCI575bt9TK8jZLD/SxARliudzch6pVlq8Og==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-job-tracker@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-job-tracker/-/@myntra/uikit-component-job-tracker-1.13.100.tgz#779c998a301f1cf63c072b867ddc7144fa4dd1cb"
+  integrity sha512-rzCAHYOHIbQyo7mD7bFT7o99M5Abaykzhs2C6W42Oxkf2P55C/nsjQwAlSGyuGajpn8IXBq7C6bOTCsAxJ8bQg==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-grid" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-component-layout" "1.13.*"
+    "@myntra/uikit-component-loader" "1.13.*"
+    "@myntra/uikit-component-text" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    dayjs "^1.8.14"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-layout@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-layout/-/@myntra/uikit-component-layout-1.13.99.tgz#53b76e41182bd3994129dab0e2f8ec3096466083"
+  integrity sha512-lCh9oxl7kFLXjJ1xYFQ8HiB5w6YaMtx3QY+TFo0dtIPbD200KLovwqUXacP7U1PKch5+B/2I2JBnNjb2eZrUcQ==
+  dependencies:
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-list@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-list/-/@myntra/uikit-component-list-1.13.100.tgz#6a3a43589881d209011c142b2703108e3ee08c0d"
+  integrity sha512-iL70epbVcNMHsISnU+xR3/+XfWIY4XeAmL3VeipNAbd4U0dp30LKD0tE2nFIC+LBu1ASBSnakspg7x7fSOLGUg==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-input-checkbox" "1.13.*"
+    "@myntra/uikit-component-virtual-list" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    scroll-into-view-if-needed "^2.2.20"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-loader@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-loader/-/@myntra/uikit-component-loader-1.13.100.tgz#8caa6c9589ab415f22be981d7e886836734f61ca"
+  integrity sha512-pCe/1PGEPBbzI1uJ9RbeCc/xB5/af4lMD08gSElQpAv0Va7uFR0s0/ThOk7ICY26Jxjd/KWJzik8ik45Ny0cXw==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-measure@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-measure/-/@myntra/uikit-component-measure-1.13.99.tgz#4b65f7fecad392aab30d39892eff513bc8ef5a1e"
+  integrity sha512-5ln9aaPo9ng5d/GT4VfQOZG3X+M0RVhTCDsKrD67U2+bp4xOEeZH6yAeWMPxI83XOmYMXm5oCBuQ7f8xgM55wg==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    prop-types "^15.7.2"
+    resize-observer-polyfill "^1.5.1"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+    react-dom "^16.8.6"
+
+"@myntra/uikit-component-modal@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-modal/-/@myntra/uikit-component-modal-1.13.99.tgz#6dc0535a2e31b3e6cc69a9aff89aa15c42d328d8"
+  integrity sha512-fY721qHT35ZUvXWIxLDAxp/inqoQI10f7WAfmyJqHFwgqvXXN6ngZ7MOsQYevw+zVC4uLGZ0Euob5DzJFv+VHQ==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-portal" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-nav-bar@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-nav-bar/-/@myntra/uikit-component-nav-bar-1.13.100.tgz#84dc76e67367434c4de17aa1bb8df8197f75db52"
+  integrity sha512-7zpcu7RCU1DsOWZFRxbTgjrE7/8LUfdgXXmNqffOnL382aj5ytcc6pdXo7gELM6lO9dZvSAFP9QS1DmK+kgfVw==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-avatar" "1.13.*"
+    "@myntra/uikit-component-click-away" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-context" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-notification@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-notification/-/@myntra/uikit-component-notification-1.13.99.tgz#f00abbfa2bf8df07925b147929bb20abfe302eb0"
+  integrity sha512-yHuj4Bskh/wmF5X+LR4p4HZiFUsUWmrSbVo3Zade0dsOEhJKq2mbJVkIb1vtuPQJRTRWfuLBam4j1rf3QApQLg==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-section" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-page@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-page/-/@myntra/uikit-component-page-1.13.99.tgz#921a52722b85ef05e21dc997ef9b63545612cc49"
+  integrity sha512-WCS0hkHE8ni/liZhjyaL7EnIqK7XydI/8ZVm+g3er9ZUtZAzPaZroYif0Yx6bSuXFbJjqXTlkhg9V4/AVJM0yA==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-pagination@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-pagination/-/@myntra/uikit-component-pagination-1.13.100.tgz#415073a610cac8f4160d0bd4977da13cffda1065"
+  integrity sha512-qNwCfHIwrhwwOC2YdD3zzRZOyq3yJV0USM8n4unXaNdJXkPx5MA0Es0e1iLSI66Fr49wZWe+lFJvu1xRykYUYA==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-portal@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-portal/-/@myntra/uikit-component-portal-1.13.99.tgz#7e9d078833b1569c6a33af728575459822c66da9"
+  integrity sha512-jSiUtSZfznOhSyAXu9QCePim0vR6cQEDcJD76kF9MrU7to/gcm1/ej4vNdBQBeSUtWdtOFZ+MXa5LiREIT4SWA==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    prop-types "^15.7.2"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+    react-dom ">=15.4"
+
+"@myntra/uikit-component-progress@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-progress/-/@myntra/uikit-component-progress-1.13.100.tgz#542ebbbff6bc0912e9d8c46185e7554cd8b3860a"
+  integrity sha512-eOX9HdkYNLnjq0+V7LFZRhZDTsM5ccsUi4kb3J2FKmehcMMH+SHPVUgrXR2yqfsjHAHg4tsWjgE92XgcxJUm0A==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-text" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-schema-form@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-schema-form/-/@myntra/uikit-component-schema-form-1.13.100.tgz#b3d5674a0c59d0ce7e40e87c4920b50b066f98e8"
+  integrity sha512-+LhS41UnRGt8Nfx3kCWSoAGkdaATlY5XDurwtlvf4Bq9J64dNuJsvsaDdtZmRkLQzjTcF0dSrYu6zsoAQnyvng==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-field" "1.13.*"
+    "@myntra/uikit-component-form" "1.13.*"
+    "@myntra/uikit-component-grid" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-section@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-section/-/@myntra/uikit-component-section-1.13.100.tgz#a6694c2e6c9b0204dd564da003644af1bd36b97c"
+  integrity sha512-H7Vm0JCq54FRt0Rr0wpR86F9awD8g8gc29VJSAakx3TnrPQQCxSU82L4AlZG2SFl4QIUouigsQAegXTR/Z8spg==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-stepper@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-stepper/-/@myntra/uikit-component-stepper-1.13.100.tgz#b284f8738b8a1c4daa27085dc7fe7f14fe7ca4c4"
+  integrity sha512-OPk2MtuNydsfCW9+kgsYESFsGoQf6UXlpTKM7dBJDXZSyelbJIaKqaDt0Xv2VirPWWThQtGfKOOfPtO4ce2mAg==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-component-layout" "1.13.*"
+    "@myntra/uikit-component-text" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    prop-types "^15.7.2"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-table@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-table/-/@myntra/uikit-component-table-1.13.100.tgz#8af338cd8f6fbb44fb14fcf2bb2cba6d87c03e30"
+  integrity sha512-Qd5IuIn019AMg6+TqFbV6ZdGP7neci3khlOP+hUeIFoQMpM7HM6JvziX6XEQmdY7aTPbUl1kk7uPwy3N4msCLw==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-dropdown" "1.13.*"
+    "@myntra/uikit-component-field" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-component-input-text" "1.13.*"
+    "@myntra/uikit-component-list" "1.13.*"
+    "@myntra/uikit-component-measure" "1.13.*"
+    "@myntra/uikit-component-virtual-grid" "1.13.*"
+    "@myntra/uikit-component-virtual-list" "1.13.*"
+    "@myntra/uikit-context" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-tabs@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-tabs/-/@myntra/uikit-component-tabs-1.13.100.tgz#977fe9eddf8311577d39da9d704ee89f17918f0b"
+  integrity sha512-tw5rWpsepNJoq4S7GbqtXudeTboNTnvD1nq560NHJ9U6KnFAm4OinwqFxV29Q8gfmQ5fYmR5+T8Bhz3b/OxtRA==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-text@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-text/-/@myntra/uikit-component-text-1.13.99.tgz#bad6bd9cd50770f8afdc2ecb929d6aeaac07e1ab"
+  integrity sha512-Kori5umriIIPT7rSGAEtI+jIaQgCRjoLho69voDxxDfZ2LszgvY8MmR2X2ecWsjesedc4rNSkzDj1uJ0qVBS4w==
+  dependencies:
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-tooltip@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-tooltip/-/@myntra/uikit-component-tooltip-1.13.99.tgz#f7d88205f8e27bd04d9faf73c48637c946f9b4a0"
+  integrity sha512-lYZUIh2qcjmmMMnVElR0DhQZgFsNKQ6Cdxx0e3z7z4hY2PiaHh5Vnhe9fgxvsme5DY6sICLabOvAcU2huG+P0A==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-dropdown" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-top-bar@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-top-bar/-/@myntra/uikit-component-top-bar-1.13.99.tgz#4b1a189daeef611c9be106262e476d680f57d7cc"
+  integrity sha512-UgjM3xD4deJm8Xvnwrs87YUyZbvVD6d7Wvp/lle3CNwLhAVD7+F8GfqAGAMeBbIfWwikqy/S4NzOmnPtuOJyTA==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-bread-crumb" "1.13.*"
+    "@myntra/uikit-component-dropdown" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-component-list" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-virtual-grid@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-virtual-grid/-/@myntra/uikit-component-virtual-grid-1.13.99.tgz#aad1057545710980f46d03c614fa652394c4ba61"
+  integrity sha512-4TYXJ4gJa06U++yrWHnsIet3MpoUD3uiQ/lx44DqdTQzhEtx+5Xi/clav2ReCM0VcZAjfCWiHLrFNxfQAFKmuw==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-virtual-list" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-component-virtual-list@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-component-virtual-list/-/@myntra/uikit-component-virtual-list-1.13.100.tgz#e6ffc2f7e63815addab8108c4cdd9b7cfcbc2af2"
+  integrity sha512-z2zCBuvR5xbkuR9CCHWKyDiG8F4uDukSoLSWSqXmT1nscYCTxnvH5uqRqCCyK1UcE6x+ty+XB4+ePDBPubJD4w==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    "@myntra/uikit-component-measure" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    uikit-icons "npm:@myntra/uikit-icons@latest"
+  optionalDependencies:
+    react ">=15.4"
+    react-dom ">=16.0"
+
+"@myntra/uikit-context@1.13.*":
+  version "1.13.100"
+  resolved "http://registry.myntra.com/@myntra/uikit-context/-/@myntra/uikit-context-1.13.100.tgz#2427b070eab1a8da9a38c6fea4548defef364563"
+  integrity sha512-SFU4JvXYxs2R0IoAP7NXoCJi+q5di6wm8wsqGKkKayjJB4sc4mcqwphGwwPq7bdMeR5oRTQxuTvshysGMyB9RA==
+  dependencies:
+    "@myntra/uikit-can-i-use" "1.13.*"
+    react "^16.8.4"
+
+"@myntra/uikit-pro-icons@1.0.37":
+  version "1.0.37"
+  resolved "http://registry.myntra.com/@myntra/uikit-pro-icons/-/@myntra/uikit-pro-icons-1.0.37.tgz#8ab6cfe22e330814e21f8951a867a73cf482d297"
+  integrity sha512-F7prRyx5ZCY/LIkNt4vE5nnDyiDy1mjpq02glF7d4V3vGpVSHjZwZBFVxcb31+AD3iJqPQnYhMOKhYpgTR8HUg==
+  optionalDependencies:
+    react ">=15.4"
+
+"@myntra/uikit-utils@1.13.*":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit-utils/-/@myntra/uikit-utils-1.13.99.tgz#d73a19e5cd46e938a1554a50f5ad30abffd536af"
+  integrity sha512-TgzfiePtLT/cie83DSncy48rAtDZlpMyQ4zaZ9acEuQ0fgm4X46Li8zaccwQ5kJpH0z2swWUKJqwDx5vfGBafw==
+  optionalDependencies:
+    react "^16.0.0"
+
+"@myntra/uikit@^1.13.99":
+  version "1.13.99"
+  resolved "http://registry.myntra.com/@myntra/uikit/-/@myntra/uikit-1.13.99.tgz#25f6f07a5501107130a5d188bd66c266679da33f"
+  integrity sha512-XGPKkKtaa/xCNy0h/6bd5f6v7UTSy+NgN8VptFHSp13qSwA/AYfS2eq5nkqQdYqYyMO7jV1wsLG39jYLmtNw6w==
+  dependencies:
+    "@myntra/accoutrement" "1.13.*"
+    "@myntra/uikit-component-accordion" "1.13.*"
+    "@myntra/uikit-component-avatar" "1.13.*"
+    "@myntra/uikit-component-badge" "1.13.*"
+    "@myntra/uikit-component-banner" "1.13.*"
+    "@myntra/uikit-component-bread-crumb" "1.13.*"
+    "@myntra/uikit-component-button" "1.13.*"
+    "@myntra/uikit-component-button-group" "1.13.*"
+    "@myntra/uikit-component-click-away" "1.13.*"
+    "@myntra/uikit-component-dropdown" "1.13.*"
+    "@myntra/uikit-component-error-boundary" "1.13.*"
+    "@myntra/uikit-component-fab" "1.13.*"
+    "@myntra/uikit-component-field" "1.13.*"
+    "@myntra/uikit-component-flex" "1.13.*"
+    "@myntra/uikit-component-form" "1.13.*"
+    "@myntra/uikit-component-grid" "1.13.*"
+    "@myntra/uikit-component-group" "1.13.*"
+    "@myntra/uikit-component-icon" "1.13.*"
+    "@myntra/uikit-component-image" "1.13.*"
+    "@myntra/uikit-component-input-azure-file" "1.13.*"
+    "@myntra/uikit-component-input-checkbox" "1.13.*"
+    "@myntra/uikit-component-input-date" "1.13.*"
+    "@myntra/uikit-component-input-file" "1.13.*"
+    "@myntra/uikit-component-input-masked" "1.13.*"
+    "@myntra/uikit-component-input-month" "1.13.*"
+    "@myntra/uikit-component-input-number" "1.13.*"
+    "@myntra/uikit-component-input-radio" "1.13.*"
+    "@myntra/uikit-component-input-s3-file" "1.13.*"
+    "@myntra/uikit-component-input-select" "1.13.*"
+    "@myntra/uikit-component-input-text" "1.13.*"
+    "@myntra/uikit-component-input-text-area" "1.13.*"
+    "@myntra/uikit-component-job-tracker" "1.13.*"
+    "@myntra/uikit-component-layout" "1.13.*"
+    "@myntra/uikit-component-list" "1.13.*"
+    "@myntra/uikit-component-loader" "1.13.*"
+    "@myntra/uikit-component-measure" "1.13.*"
+    "@myntra/uikit-component-modal" "1.13.*"
+    "@myntra/uikit-component-nav-bar" "1.13.*"
+    "@myntra/uikit-component-notification" "1.13.*"
+    "@myntra/uikit-component-page" "1.13.*"
+    "@myntra/uikit-component-pagination" "1.13.*"
+    "@myntra/uikit-component-portal" "1.13.*"
+    "@myntra/uikit-component-progress" "1.13.*"
+    "@myntra/uikit-component-schema-form" "1.13.*"
+    "@myntra/uikit-component-section" "1.13.*"
+    "@myntra/uikit-component-stepper" "1.13.*"
+    "@myntra/uikit-component-table" "1.13.*"
+    "@myntra/uikit-component-tabs" "1.13.*"
+    "@myntra/uikit-component-text" "1.13.*"
+    "@myntra/uikit-component-tooltip" "1.13.*"
+    "@myntra/uikit-component-top-bar" "1.13.*"
+    "@myntra/uikit-component-virtual-grid" "1.13.*"
+    "@myntra/uikit-component-virtual-list" "1.13.*"
+    "@myntra/uikit-utils" "1.13.*"
+    normalize.css "^8.0.1"
+    print-message "^3.0.1"
+
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz#7619c2eb21b25483f6d167548b4cfd5a7488c3d5"
@@ -2030,6 +2826,11 @@ accepts@~1.3.4, accepts@~1.3.5, accepts@~1.3.7:
     mime-types "~2.1.24"
     negotiator "0.6.2"
 
+accoutrement@^2.1.2:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/accoutrement/-/accoutrement-2.2.0.tgz#a70a0253aa9f26d091f5d39e6c22edff1e8e013d"
+  integrity sha512-aY6D3v2ZXIs3AsyIy9en80Dpv89jCkGeG9ILhRO2q6lpPNfgmldYgOO5UcdQlQm14n3Tf4IrNIz4Ijz0A8bYlw==
+
 acorn-globals@^6.0.0:
   version "6.0.0"
   resolved "https://registry.yarnpkg.com/acorn-globals/-/acorn-globals-6.0.0.tgz#46cdd39f0f8ff08a876619b55f5ac8a6dc770b45"
@@ -2176,6 +2977,11 @@ ansi-styles@^4.0.0, ansi-styles@^4.1.0:
   integrity sha512-zbB9rCJAT1rbjiVDb2hqKFHNYLxgtk8NURxZ3IZwD3F6NtxbXZQCnnSi1Lkx+IDohdPlFp222wVALIheZJQSEg==
   dependencies:
     color-convert "^2.0.1"
+
+ansicolors@~0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/ansicolors/-/ansicolors-0.2.1.tgz#be089599097b74a5c9c4a84a0cdbcdb62bd87aef"
+  integrity sha1-vgiVmQl7dKXJxKhKDNvNtivYeu8=
 
 anymatch@^2.0.0:
   version "2.0.0"
@@ -2361,6 +3167,13 @@ async@^2.1.4, async@^2.6.2:
   version "2.6.3"
   resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
   integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
+  dependencies:
+    lodash "^4.17.14"
+
+async@^2.6.0:
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
+  integrity sha512-mzo5dfJYwAn29PeiJ0zvwTo04zj8HDJj0Mn8TD7sno7q12prdbnasKJHhkm2c1LgrhlJ0teaea8860oxi51mGA==
   dependencies:
     lodash "^4.17.14"
 
@@ -3033,6 +3846,14 @@ capture-exit@^2.0.0:
   dependencies:
     rsvp "^4.8.4"
 
+cardinal@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/cardinal/-/cardinal-1.0.0.tgz#50e21c1b0aa37729f9377def196b5a9cec932ee9"
+  integrity sha1-UOIcGwqjdyn5N33vGWtanOyTLuk=
+  dependencies:
+    ansicolors "~0.2.1"
+    redeyed "~1.0.0"
+
 case-sensitive-paths-webpack-plugin@2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/case-sensitive-paths-webpack-plugin/-/case-sensitive-paths-webpack-plugin-2.3.0.tgz#23ac613cc9a856e4f88ff8bb73bbb5e989825cf7"
@@ -3321,6 +4142,11 @@ compression@^1.7.4:
     on-headers "~1.0.2"
     safe-buffer "5.1.2"
     vary "~1.1.2"
+
+compute-scroll-into-view@^1.0.17:
+  version "1.0.17"
+  resolved "https://registry.yarnpkg.com/compute-scroll-into-view/-/compute-scroll-into-view-1.0.17.tgz#6a88f18acd9d42e9cf4baa6bec7e0522607ab7ab"
+  integrity sha512-j4dx+Fb0URmzbwwMUrhqWM2BEWHdFGx+qZ9qqASHRPqvTYdqvWnHg0H1hIbcyLnvgnoNAVMlwkepyqM3DaIFUg==
 
 concat-map@0.0.1:
   version "0.0.1"
@@ -3779,6 +4605,11 @@ cssstyle@^2.3.0:
   dependencies:
     cssom "~0.3.6"
 
+csv-parse@^4.6.5:
+  version "4.16.3"
+  resolved "https://registry.yarnpkg.com/csv-parse/-/csv-parse-4.16.3.tgz#7ca624d517212ebc520a36873c3478fa66efbaf7"
+  integrity sha512-cO1I/zmz4w2dcKHVvpCr7JVRu8/FymG5OEpmvsZYlccYolPBLoVGKUHgNoc4ZGkFeFlWGEDmMyBM+TTqRdW/wg==
+
 cyclist@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/cyclist/-/cyclist-1.0.1.tgz#596e9698fd0c80e12038c2b82d6eb1b35b6224d9"
@@ -3805,6 +4636,16 @@ data-urls@^2.0.0:
     abab "^2.0.3"
     whatwg-mimetype "^2.3.0"
     whatwg-url "^8.0.0"
+
+date-fns@^2.0.0-alpha.27:
+  version "2.29.1"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.29.1.tgz#9667c2615525e552b5135a3116b95b1961456e60"
+  integrity sha512-dlLD5rKaKxpFdnjrs+5azHDFOPEu4ANy/LTh04A1DTzMM7qoajmKCBc8pkKRFT41CNzw+4gQh79X5C+Jq27HAw==
+
+dayjs@^1.8.14:
+  version "1.11.4"
+  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.11.4.tgz#3b3c10ca378140d8917e06ebc13a4922af4f433e"
+  integrity sha512-Zj/lPM5hOvQ1Bf7uAvewDaUcsJoI6JmNqmHhHl3nyumwe0XHwt8sWdOVAPACJzCebL8gQCi+K49w7iKWnGwX9g==
 
 debug@2, debug@2.6.9, debug@^2.1.3, debug@^2.2.0, debug@^2.3.3, debug@^2.6.0, debug@^2.6.9:
   version "2.6.9"
@@ -4560,6 +5401,11 @@ esprima@^4.0.0, esprima@^4.0.1, esprima@~4.0.0:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/esprima/-/esprima-4.0.1.tgz#13b04cdb3e6c5d19df91ab6987a8695619b0aa71"
   integrity sha512-eGuFFw7Upda+g4p+QHvnW0RyTX/SVeJBDM/gCtMARO0cLuT2HcEKnTPvhjV6aGeqrCB/sbNop0Kszm0jsaWU4A==
+
+esprima@~3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/esprima/-/esprima-3.0.0.tgz#53cf247acda77313e551c3aa2e73342d3fb4f7d9"
+  integrity sha1-U88kes2ncxPlUcOqLnM0LT+099k=
 
 esquery@^1.4.0:
   version "1.4.0"
@@ -5569,6 +6415,11 @@ human-signals@^1.1.1:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-1.1.1.tgz#c5b1cd14f50aeae09ab6c59fe63ba3395fe4dfa3"
   integrity sha512-SEQu7vl8KjNL2eoGBLF3+wAjpsNfA9XMlXAYj/3EdaNfAlxKthD1xjEQfGOUhllCGGJVNY34bRr6lPINhNjyZw==
 
+humanize@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/humanize/-/humanize-0.0.9.tgz#1994ffaecdfe9c441ed2bdac7452b7bb4c9e41a4"
+  integrity sha1-GZT/rs3+nEQe0r2sdFK3u0yeQaQ=
+
 iconv-lite@0.4.24:
   version "0.4.24"
   resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.4.24.tgz#2022b4b25fbddc21d2f524974a474aafe733908b"
@@ -5730,6 +6581,11 @@ internal-slot@^1.0.3:
     get-intrinsic "^1.1.0"
     has "^1.0.3"
     side-channel "^1.0.4"
+
+intersection-observer-polyfill@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/intersection-observer-polyfill/-/intersection-observer-polyfill-0.1.0.tgz#f9ef8e5a6f3e0e8173d0c0fdb563e47a9dda233c"
+  integrity sha1-+e+OWm8+DoFz0MD9tWPkep3aIzw=
 
 invariant@^2.2.4:
   version "2.2.4"
@@ -6802,7 +7658,7 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.3.tgz#07c05034a6c349fa06e24fa35aa76db4580ce4dd"
   integrity sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==
 
-kleur@^3.0.3:
+kleur@3.0.3, kleur@^3.0.3:
   version "3.0.3"
   resolved "https://registry.yarnpkg.com/kleur/-/kleur-3.0.3.tgz#a79c9ecc86ee1ce3fa6206d1216c501f147fc07e"
   integrity sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w==
@@ -7151,6 +8007,11 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
+luxon@^1.21.1:
+  version "1.28.0"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.28.0.tgz#e7f96daad3938c06a62de0fb027115d251251fbf"
+  integrity sha512-TfTiyvZhwBYM/7QdAVDh+7dBTBA29v4ik0Ce9zda3Mnf8on1S5KJI8P2jKFZ8+5C0jhmr0KwJEO/Wdpm0VeWJQ==
+
 magic-string@^0.25.0, magic-string@^0.25.7:
   version "0.25.7"
   resolved "https://registry.yarnpkg.com/magic-string/-/magic-string-0.25.7.tgz#3f497d6fd34c669c6798dcb821f2ef31f5445051"
@@ -7356,6 +8217,11 @@ minimist@^1.1.1, minimist@^1.2.0, minimist@^1.2.5:
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
   integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
 
+minimist@~0.0.1:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-0.0.10.tgz#de3f98543dbf96082be48ad1a0c7cda836301dcf"
+  integrity sha1-3j+YVD2/lggr5IrRoMfNqDYwHc8=
+
 minipass-collect@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/minipass-collect/-/minipass-collect-1.0.2.tgz#22b813bf745dc6edba2576b940022ad6edc8c617"
@@ -7484,6 +8350,11 @@ multicast-dns@^6.0.1:
   dependencies:
     dns-packet "^1.3.1"
     thunky "^1.0.2"
+
+name-initials@^0.1.3:
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/name-initials/-/name-initials-0.1.3.tgz#b9af9d8d551068b1c147c50458477f47c1217776"
+  integrity sha1-ua+djVUQaLHBR8UEWEd/R8Ehd3Y=
 
 nan@^2.12.1:
   version "2.15.0"
@@ -7661,6 +8532,11 @@ normalize-url@^3.0.0:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-3.3.0.tgz#b2e1c4dc4f7c6d57743df733a4f5978d18650559"
   integrity sha512-U+JJi7duF1o+u2pynbp2zXDW2/PADgC30f0GsHZtRh+HOcXHnw137TrNlyxxRvWW5fjKd3bcLHPxofWuCjaeZg==
+
+normalize.css@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/normalize.css/-/normalize.css-8.0.1.tgz#9b98a208738b9cc2634caacbc42d131c97487bf3"
+  integrity sha512-qizSNPO93t1YUuUhP22btGOo3chcvDFqFaj2TRybP0DMxkHOCTYwp3n34fel4a31ORXy4m1Xq0Gyqpb5m33qIg==
 
 npm-run-path@^2.0.0:
   version "2.0.2"
@@ -7850,6 +8726,14 @@ opn@^5.5.0:
   integrity sha512-PqHpggC9bLV0VeWcdKhkpxY+3JTzetLSqTCWL/z/tFIbI6G8JCjondXklT1JinczLz2Xib62sSp0T/gKT4KksA==
   dependencies:
     is-wsl "^1.1.0"
+
+optimist@^0.6.1:
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/optimist/-/optimist-0.6.1.tgz#da3ea74686fa21a19a111c326e90eb15a0196686"
+  integrity sha1-2j6nRob6IaGaERwybpDrFaAZZoY=
+  dependencies:
+    minimist "~0.0.1"
+    wordwrap "~0.0.2"
 
 optimize-css-assets-webpack-plugin@5.0.4:
   version "5.0.4"
@@ -8921,6 +9805,13 @@ pretty-format@^26.6.0, pretty-format@^26.6.2:
     ansi-styles "^4.0.0"
     react-is "^17.0.1"
 
+print-message@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/print-message/-/print-message-3.0.1.tgz#f2331a13df235e275725ddd34eb61988868a73cd"
+  integrity sha512-wsvsI08pLCPL+lHURVmlZ2KjXN/rLKNyeKN/r3FkXAX6ZByE8Fv8ZmvkQFqpdPdyfCPty3PzznrDda+E8DvN8Q==
+  dependencies:
+    kleur "3.0.3"
+
 private@~0.1.5:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/private/-/private-0.1.8.tgz#2381edb3689f7a53d653190060fcf822d2f368ff"
@@ -8969,7 +9860,7 @@ prompts@^2.0.1:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-prop-types@^15.5.10, prop-types@^15.5.8, prop-types@^15.6.0, prop-types@^15.7.2:
+prop-types@^15.5.10, prop-types@^15.5.8, prop-types@^15.6.0, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.8.1"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.8.1.tgz#67d87bf1a694f48435cf332c24af10214a3140b5"
   integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
@@ -9233,6 +10124,24 @@ react-dom@17.0.2:
     object-assign "^4.1.1"
     scheduler "^0.20.2"
 
+react-dom@>=15.4, react-dom@>=16.0:
+  version "18.2.0"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-18.2.0.tgz#22aaf38708db2674ed9ada224ca4aa708d821e3d"
+  integrity sha512-6IMTriUmvsjHUjNtEDudZfuDQUoWXVxKHhlEGSk81n4YFS+r/Kl99wXiwlVXtPBtJenozv2P+hxDsw9eA7Xo6g==
+  dependencies:
+    loose-envify "^1.1.0"
+    scheduler "^0.23.0"
+
+react-dom@^16.8.4, react-dom@^16.8.6:
+  version "16.14.0"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.14.0.tgz#7ad838ec29a777fb3c75c3a190f661cf92ab8b89"
+  integrity sha512-1gCeQXDLoIqMgqD3IO2Ah9bnf0w9kzhwN5q4FGnHZ67hBm9yePzB5JJAIQCc8x3pFnNlwFq4RidZggNAAkzWWw==
+  dependencies:
+    loose-envify "^1.1.0"
+    object-assign "^4.1.1"
+    prop-types "^15.6.2"
+    scheduler "^0.19.1"
+
 react-error-overlay@^6.0.9:
   version "6.0.10"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.10.tgz#0fe26db4fa85d9dbb8624729580e90e7159a59a6"
@@ -9380,6 +10289,22 @@ react@17.0.2:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
 
+react@>=15.4:
+  version "18.2.0"
+  resolved "https://registry.yarnpkg.com/react/-/react-18.2.0.tgz#555bd98592883255fa00de14f1151a917b5d77d5"
+  integrity sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==
+  dependencies:
+    loose-envify "^1.1.0"
+
+react@^16.0.0, react@^16.8.4:
+  version "16.14.0"
+  resolved "https://registry.yarnpkg.com/react/-/react-16.14.0.tgz#94d776ddd0aaa37da3eda8fc5b6b18a4c9a3114d"
+  integrity sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==
+  dependencies:
+    loose-envify "^1.1.0"
+    object-assign "^4.1.1"
+    prop-types "^15.6.2"
+
 read-pkg-up@^7.0.1:
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/read-pkg-up/-/read-pkg-up-7.0.1.tgz#f3a6135758459733ae2b95638056e1854e7ef507"
@@ -9464,6 +10389,13 @@ recursive-readdir@2.2.2:
   integrity sha512-nRCcW9Sj7NuZwa2XvH9co8NPeXUBhZP7CRKJtU+cS6PW9FpCIFoI5ib0NT1ZrbNuPoRy0ylyCaUL8Gih4LSyFg==
   dependencies:
     minimatch "3.0.4"
+
+redeyed@~1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/redeyed/-/redeyed-1.0.1.tgz#e96c193b40c0816b00aec842698e61185e55498a"
+  integrity sha1-6WwZO0DAgWsArshCaY5hGF5VSYo=
+  dependencies:
+    esprima "~3.0.0"
 
 reduce-component@1.0.1:
   version "1.0.1"
@@ -9599,6 +10531,11 @@ requires-port@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/requires-port/-/requires-port-1.0.0.tgz#925d2601d39ac485e091cf0da5c6e694dc3dcaff"
   integrity sha1-kl0mAdOaxIXgkc8NpcbmlNw9yv8=
+
+resize-observer-polyfill@^1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/resize-observer-polyfill/-/resize-observer-polyfill-1.5.1.tgz#0e9020dd3d21024458d4ebd27e23e40269810464"
+  integrity sha512-LwZrotdHOo12nQuZlHEmtuXdqGoOD0OhaxopaNFxWzInpEgaLWoVuAMbTzixuosCx2nEG58ngzW3vxdWoxIgdg==
 
 resolve-cwd@^2.0.0:
   version "2.0.0"
@@ -9854,6 +10791,14 @@ saxes@^5.0.1:
   dependencies:
     xmlchars "^2.2.0"
 
+scheduler@^0.19.1:
+  version "0.19.1"
+  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.19.1.tgz#4f3e2ed2c1a7d65681f4c854fa8c5a1ccb40f196"
+  integrity sha512-n/zwRWRYSUj0/3g/otKDRPMh6qv2SYMWNq85IEa8iZyAv8od9zDYpGSnpBEjNgcMNq6Scbu5KfIPxNF72R/2EA==
+  dependencies:
+    loose-envify "^1.1.0"
+    object-assign "^4.1.1"
+
 scheduler@^0.20.2:
   version "0.20.2"
   resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.20.2.tgz#4baee39436e34aa93b4874bddcbf0fe8b8b50e91"
@@ -9861,6 +10806,13 @@ scheduler@^0.20.2:
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
+
+scheduler@^0.23.0:
+  version "0.23.0"
+  resolved "https://registry.yarnpkg.com/scheduler/-/scheduler-0.23.0.tgz#ba8041afc3d30eb206a487b6b384002e4e61fdfe"
+  integrity sha512-CtuThmgHNg7zIZWAXi3AsyIzA3n4xx7aNyjwC2VJldO2LMVDhFK+63xGqq6CsJH4rTAt6/M+N4GhZiDYPx9eUw==
+  dependencies:
+    loose-envify "^1.1.0"
 
 schema-utils@^1.0.0:
   version "1.0.0"
@@ -9888,6 +10840,13 @@ schema-utils@^3.0.0, schema-utils@^3.1.1:
     "@types/json-schema" "^7.0.8"
     ajv "^6.12.5"
     ajv-keywords "^3.5.2"
+
+scroll-into-view-if-needed@^2.2.20:
+  version "2.2.29"
+  resolved "https://registry.yarnpkg.com/scroll-into-view-if-needed/-/scroll-into-view-if-needed-2.2.29.tgz#551791a84b7e2287706511f8c68161e4990ab885"
+  integrity sha512-hxpAR6AN+Gh53AdAimHM6C8oTN1ppwVZITihix+WqalywBeFcQ6LdQP5ABNl26nX8GTEL7VT+b8lKpdqq65wXg==
+  dependencies:
+    compute-scroll-into-view "^1.0.17"
 
 select-hose@^2.0.0:
   version "2.0.0"
@@ -10076,6 +11035,17 @@ side-channel@^1.0.4:
     call-bind "^1.0.0"
     get-intrinsic "^1.0.2"
     object-inspect "^1.9.0"
+
+sifter@^0.5.3:
+  version "0.5.4"
+  resolved "https://registry.yarnpkg.com/sifter/-/sifter-0.5.4.tgz#3cb9e514889edfc887d8d87a355841b01ebdd1ab"
+  integrity sha512-t2yxTi/MM/ESup7XH5oMu8PUcttlekt269RqxARgnvS+7D/oP6RyA1x3M/5w8dG9OgkOyQ8hNRWelQ8Rj4TAQQ==
+  dependencies:
+    async "^2.6.0"
+    cardinal "^1.0.0"
+    csv-parse "^4.6.5"
+    humanize "^0.0.9"
+    optimist "^0.6.1"
 
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.6"
@@ -10952,6 +11922,13 @@ typescript@4.1.3:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.1.3.tgz#519d582bd94cba0cf8934c7d8e8467e473f53bb7"
   integrity sha512-B3ZIOf1IKeH2ixgHhj6la6xdwR9QrLC5d1VKeCSY4tvkqhF2eqd9O7txNlS0PO3GrBAFIdr3L1ndNwteUbZLYg==
 
+"uikit-icons@npm:@myntra/uikit-icons@latest":
+  version "1.0.31"
+  resolved "https://registry.myntra.com/@myntra/uikit-icons/-/@myntra/uikit-icons-1.0.31.tgz#a6752f7c9bf0931a9fd5ad7baa2c87ae4885b4b2"
+  integrity sha512-Nhi5vQiLhakdOUx6GxXMAf0iOrnDH/FtP6ocjcSNBq1PZ1uoNcJg8S0NvNsG33IXu8qa2xxIAToiGGVr4RIVpw==
+  optionalDependencies:
+    react ">=15.4"
+
 unbox-primitive@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/unbox-primitive/-/unbox-primitive-1.0.1.tgz#085e215625ec3162574dc8859abee78a59b14471"
@@ -11469,6 +12446,11 @@ word-wrap@^1.2.3, word-wrap@~1.2.3:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.3.tgz#610636f6b1f703891bd34771ccb17fb93b47079c"
   integrity sha512-Hz/mrNwitNRh/HUAtM/VT/5VH+ygD6DV7mYKZAtHOrbs8U7lvPS6xf7EJKMF0uW1KJCl0H701g3ZGus+muE5vQ==
+
+wordwrap@~0.0.2:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/wordwrap/-/wordwrap-0.0.3.tgz#a3d5da6cd5c0bc0008d37234bbaf1bed63059107"
+  integrity sha1-o9XabNXAvAAI03I0u68b7WMFkQc=
 
 workbox-background-sync@^5.1.4:
   version "5.1.4"
